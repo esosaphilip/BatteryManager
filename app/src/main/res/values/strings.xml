@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BatteryManager</string>
+    <string name="header">Battery Information</string>
+</resources>
